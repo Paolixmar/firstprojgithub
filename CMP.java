@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public interface CMP {
+public interface CMP
+{
+    boolean superiore(CMP x);
 }
